@@ -1,0 +1,23 @@
+.stories hr{
+    border: 1px solid #FF8836;
+    width: 95%;
+}
+
+.stories li{
+    border-bottom: 1px solid #eee;
+}
+
+.stories button{
+    background-image: linear-gradient(to right top, #FF8836, #FFE736);
+    border-radius: 1.5em;
+    height: 40px; 
+    width: 85px;
+    border: none; 
+    float: left;
+    margin-left:50px;
+    margin-bottom: 15px;
+}
+
+.stories button:hover{
+    background-image: linear-gradient(to right top, #faa368, #ffee6d);
+}

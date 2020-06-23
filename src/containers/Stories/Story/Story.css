@@ -1,0 +1,22 @@
+.story{
+ text-align: left;
+ margin: 10px;
+}
+
+.story span{
+    color: #999;
+    font-size: 0.75rem;
+    margin: 0 10px;
+}
+
+.story a, p{
+    text-decoration: none;
+    color: #000;
+    margin: 0;
+}
+
+.story .url{
+    color: #999;
+    font-size: 0.90rem;
+    margin-left: 5px;
+}
